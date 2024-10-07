@@ -16,3 +16,8 @@ If you have issues with Via, try the instructions
 If you're using Brave browser and you're trying to download/save your keymap
 and you're having issues, check out this issue -
 https://github.com/brave/brave-browser/issues/20563#issuecomment-1021567573.
+
+### Useful Links
+
+- [QMK Configurator](https://config.qmk.fm/#/bastardkb/tbkmini/v2/splinky_3/LAYOUT_split_3x6_3)
+- [Keymap Drawer App (draws the keyboard layout for visualizing)](https://keymap-drawer.streamlit.app/)
